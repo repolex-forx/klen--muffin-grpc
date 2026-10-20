@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/klen/muffin-grpc/commit/790afb3a6fb9d911690c3f675354654e6551a4a2",
       "git:hexsha": "790afb3a6fb9d911690c3f675354654e6551a4a2",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "0.9.1"
     },
     {
