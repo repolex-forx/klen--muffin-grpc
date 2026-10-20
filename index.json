@@ -1,0 +1,11 @@
+{
+  "org": "klen",
+  "repo": "muffin-grpc",
+  "versions": [
+    {
+      "commit": "790afb3a6fb9d911690c3f675354654e6551a4a2",
+      "tag": "0.9.1",
+      "parsed_at": "2026-10-20T21:33:08.831324+00:00"
+    }
+  ]
+}
